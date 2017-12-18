@@ -1,0 +1,16 @@
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\bin\Debug\EXODUS WALLET UI 1.5.4.exe.config
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\bin\Debug\EXODUS WALLET UI 1.5.4.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\bin\Debug\EXODUS WALLET UI 1.5.4.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\bin\Debug\Newtonsoft.Json.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS WALLET UI 1.5.4.csprojResolveAssemblyReference.cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS_WALLET_UI_1._5._4.Form1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS_WALLET_UI_1._5._4.Properties.Resources.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS WALLET UI 1.5.4.csproj.GenerateResource.Cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS WALLET UI 1.5.4.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS WALLET UI 1.5.4.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\bin\Debug\Bunifu_UI_v1.5.4.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\bin\Debug\Bunifu_UI_v1.5.4.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS_WALLET_UI_1._5._4.TAB1.resources
+d:\Developer Zoone\Documents\Visual Studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS_WALLET_UI_1._5._4.TAB2.resources
+d:\Developer Zoone\Documents\Visual Studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS_WALLET_UI_1._5._4.TAB3.resources
+d:\Developer Zoone\Documents\Visual Studio 2015\Projects\ui\EXODUS WALLET UI 1.5.4\EXODUS WALLET UI 1.5.4\obj\Debug\EXODUS_WALLET_UI_1._5._4.tab4.resources
